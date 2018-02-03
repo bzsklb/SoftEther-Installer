@@ -5,6 +5,8 @@ Download or copy this script in to linux server.
 Chmod the file to allow executable.
 run in terminal below command
 
+wget https://raw.githubusercontent.com/bzsklb/SoftEther-Installer/master/install.sh
+
 chmod +x install.sh
 
 ./install.sh
