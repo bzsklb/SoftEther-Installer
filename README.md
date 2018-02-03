@@ -6,6 +6,7 @@ Chmod the file to allow executable.
 run in terminal below command
 
 chmod +x install.sh
+
 ./install.sh
 
 Currently tested on:
