@@ -141,9 +141,9 @@ if [ "$os" = "cent" ];then
 	yum install gcc make which
 	#yum groupinstall "Development Tools" gcc 
 elif [ "$os" = "deb" ];then
-	apt-get update && apt-get upgrade
+	apt-get update && apt-get upgrade -y
 	#apt-get install build-essential -y
-	apt-get install make gcc
+	apt-get install make gcc -y
 elif [ "$os" = "pacman" ];then
 	pacman -Syy base-devel --noconfirm
 else
