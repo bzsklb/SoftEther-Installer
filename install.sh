@@ -1,7 +1,7 @@
 #!/bin/bash
 
-beta="v4.28-9669-beta-2018.09.11"
-lateststable="v4.27-9668-beta-2018.05.29"
+beta="v4.31-9727-beta-2019.11.18"
+lateststable="v4.29-9680-rtm-2019.02.28"
 #Release Date: 2018.01.15
 service="vpnserver.service"
 
