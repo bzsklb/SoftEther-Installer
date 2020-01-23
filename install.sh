@@ -1,13 +1,13 @@
 #!/bin/bash
 
-beta="v4.31-9727-beta-2019.11.18"
+beta="v4.32-9731-beta-2020.01.01"
 lateststable="v4.29-9680-rtm-2019.02.28"
 #Release Date: 2018.01.15
 service="vpnserver.service"
 
 echo "--------------------------------------------------------------------"
 echo "SoftEther VPN Server Install script"
-echo "By AhmadShamli and bzsklb. Special for https://www.twitch.tv/knjazevdesu"
+echo "By AhmadShamli and bzsklb.
 echo "http://github.com/bzsklb"
 echo "http://github.com/AhmadShamli"
 echo "http://AhmadShamli.com"
