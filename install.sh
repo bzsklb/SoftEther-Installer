@@ -7,7 +7,7 @@ service="vpnserver.service"
 
 echo "--------------------------------------------------------------------"
 echo "SoftEther VPN Server Install script"
-echo "By AhmadShamli and bzsklb.
+echo "By AhmadShamli and bzsklb."
 echo "http://github.com/bzsklb"
 echo "http://github.com/AhmadShamli"
 echo "http://AhmadShamli.com"
